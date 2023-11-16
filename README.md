@@ -30,28 +30,26 @@ Chat App is a real-time messaging application that allows users to communicate w
 ### Installation
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/KevinDev90/ChatAppSwift.git
    
 2. Navigate to the project directory:
-   
-  ```bash
-  cd ChatApp
+   ```bash
+   cd ChatApp
 
 3. Install dependencies using Cocoapods:
-
-  ```bash
-  pod install
+   ```bash
+   pod install
 
 4. Open the Xcode workspace:
-
-  ```bash
-  open ChatApp.xcworkspace
+   ```bash
+   open ChatApp.xcworkspace
 
 5. Build and run the project in Xcode.
 
 ### Usage
 
-Launch the app on your device or simulator.
-Start sending and receiving messages in real-time.
+- Launch the app on your device or simulator.
+- Start sending and receiving messages in real-time.
+
+
